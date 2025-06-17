@@ -1,1 +1,1 @@
-# simple-python-exercises
+# Simple Python Exercises
